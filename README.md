@@ -68,4 +68,4 @@ The dataset was sourced from [Kaggle: British Airways Reviews](https://www.kaggl
 
 ---
 
-Made by Pedro Burini
+*Developed by [Pedro Burini](https://github.com/pedroburini)*
